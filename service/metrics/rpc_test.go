@@ -3,8 +3,8 @@ package metrics
 import (
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
-	"github.com/spiral/roadrunner/service"
-	"github.com/spiral/roadrunner/service/rpc"
+	"github.com/ihariv/roadrunner/service"
+	"github.com/ihariv/roadrunner/service/rpc"
 	"github.com/stretchr/testify/assert"
 	rpc2 "net/rpc"
 	"strconv"

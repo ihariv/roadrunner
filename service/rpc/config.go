@@ -2,8 +2,8 @@ package rpc
 
 import (
 	"errors"
-	"github.com/spiral/roadrunner/service"
-	"github.com/spiral/roadrunner/util"
+	"github.com/ihariv/roadrunner/service"
+	"github.com/ihariv/roadrunner/util"
 	"net"
 	"strings"
 )

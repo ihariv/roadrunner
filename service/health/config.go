@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner/service"
 )
 
 // Config configures the health service

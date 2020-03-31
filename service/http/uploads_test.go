@@ -7,7 +7,7 @@ import (
 	"encoding/hex"
 	"fmt"
 	json "github.com/json-iterator/go"
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 	"github.com/stretchr/testify/assert"
 	"io"
 	"io/ioutil"

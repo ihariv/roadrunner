@@ -1,6 +1,6 @@
 package rpc
 
-import "github.com/spiral/roadrunner/service"
+import "github.com/ihariv/roadrunner/service"
 
 // systemService service controls rr server.
 type systemService struct {

@@ -8,7 +8,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/sirupsen/logrus"
-	"github.com/spiral/roadrunner/service/rpc"
+	"github.com/ihariv/roadrunner/service/rpc"
 	"net/http"
 	"sync"
 	"time"

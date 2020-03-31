@@ -1,7 +1,7 @@
 package gzip
 
 import (
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner/service"
 )
 
 // Config describes file location and controls access to them.

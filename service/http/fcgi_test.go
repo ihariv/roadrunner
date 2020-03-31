@@ -3,7 +3,7 @@ package http
 import (
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner/service"
 	"github.com/stretchr/testify/assert"
 	"github.com/yookoala/gofast"
 	"io/ioutil"

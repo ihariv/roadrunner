@@ -3,7 +3,7 @@ package util
 import (
 	"errors"
 	"github.com/shirou/gopsutil/process"
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 )
 
 // State provides information about specific worker.

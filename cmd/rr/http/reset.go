@@ -22,8 +22,8 @@ package http
 
 import (
 	"github.com/spf13/cobra"
-	rr "github.com/spiral/roadrunner/cmd/rr/cmd"
-	"github.com/spiral/roadrunner/cmd/util"
+	rr "github.com/ihariv/roadrunner/cmd/rr/cmd"
+	"github.com/ihariv/roadrunner/cmd/util"
 )
 
 func init() {

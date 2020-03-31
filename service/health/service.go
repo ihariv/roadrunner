@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	rrhttp "github.com/ihariv/roadrunner/service/http"
 )
 
 const (

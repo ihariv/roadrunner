@@ -3,8 +3,8 @@ package reload
 import (
 	"errors"
 	"github.com/sirupsen/logrus"
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner"
+	"github.com/ihariv/roadrunner/service"
 	"os"
 	"strings"
 	"time"

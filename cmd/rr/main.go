@@ -23,23 +23,23 @@
 package main
 
 import (
-	rr "github.com/spiral/roadrunner/cmd/rr/cmd"
+	rr "github.com/ihariv/roadrunner/cmd/rr/cmd"
 
 	// services (plugins)
-	"github.com/spiral/roadrunner/service/env"
-	"github.com/spiral/roadrunner/service/gzip"
-	"github.com/spiral/roadrunner/service/headers"
-	"github.com/spiral/roadrunner/service/health"
-	"github.com/spiral/roadrunner/service/http"
-	"github.com/spiral/roadrunner/service/limit"
-	"github.com/spiral/roadrunner/service/metrics"
-	"github.com/spiral/roadrunner/service/reload"
-	"github.com/spiral/roadrunner/service/rpc"
-	"github.com/spiral/roadrunner/service/static"
+	"github.com/ihariv/roadrunner/service/env"
+	"github.com/ihariv/roadrunner/service/gzip"
+	"github.com/ihariv/roadrunner/service/headers"
+	"github.com/ihariv/roadrunner/service/health"
+	"github.com/ihariv/roadrunner/service/http"
+	"github.com/ihariv/roadrunner/service/limit"
+	"github.com/ihariv/roadrunner/service/metrics"
+	"github.com/ihariv/roadrunner/service/reload"
+	"github.com/ihariv/roadrunner/service/rpc"
+	"github.com/ihariv/roadrunner/service/static"
 
 	// additional commands and debug handlers
-	_ "github.com/spiral/roadrunner/cmd/rr/http"
-	_ "github.com/spiral/roadrunner/cmd/rr/limit"
+	_ "github.com/ihariv/roadrunner/cmd/rr/http"
+	_ "github.com/ihariv/roadrunner/cmd/rr/limit"
 )
 
 func main() {

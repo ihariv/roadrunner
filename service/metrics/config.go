@@ -3,7 +3,7 @@ package metrics
 import (
 	"fmt"
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner/service"
 )
 
 // Config configures metrics service.

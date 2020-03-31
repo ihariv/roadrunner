@@ -2,8 +2,8 @@ package limit
 
 import (
 	"fmt"
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/util"
+	"github.com/ihariv/roadrunner"
+	"github.com/ihariv/roadrunner/util"
 	"time"
 )
 

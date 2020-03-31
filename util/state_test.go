@@ -1,7 +1,7 @@
 package util
 
 import (
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 	"github.com/stretchr/testify/assert"
 	"runtime"
 	"testing"

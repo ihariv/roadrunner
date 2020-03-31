@@ -3,7 +3,7 @@ package gzip
 import (
 	"errors"
 	"github.com/NYTimes/gziphandler"
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	rrhttp "github.com/ihariv/roadrunner/service/http"
 	"net/http"
 )
 

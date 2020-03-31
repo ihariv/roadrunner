@@ -2,8 +2,8 @@ package http
 
 import (
 	json "github.com/json-iterator/go"
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner"
+	"github.com/ihariv/roadrunner/service"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

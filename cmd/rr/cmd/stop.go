@@ -22,7 +22,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/spiral/roadrunner/cmd/util"
+	"github.com/ihariv/roadrunner/cmd/util"
 )
 
 func init() {

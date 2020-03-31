@@ -2,7 +2,7 @@ package http
 
 import (
 	"github.com/pkg/errors"
-	"github.com/spiral/roadrunner/util"
+	"github.com/ihariv/roadrunner/util"
 )
 
 type rpcServer struct{ svc *Service }

@@ -1,6 +1,6 @@
 package headers
 
-import "github.com/spiral/roadrunner/service"
+import "github.com/ihariv/roadrunner/service"
 
 // Config declares headers service configuration.
 type Config struct {

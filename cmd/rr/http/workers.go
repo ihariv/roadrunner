@@ -23,9 +23,9 @@ package http
 import (
 	tm "github.com/buger/goterm"
 	"github.com/spf13/cobra"
-	rr "github.com/spiral/roadrunner/cmd/rr/cmd"
-	"github.com/spiral/roadrunner/cmd/util"
-	"github.com/spiral/roadrunner/service/http"
+	rr "github.com/ihariv/roadrunner/cmd/rr/cmd"
+	"github.com/ihariv/roadrunner/cmd/util"
+	"github.com/ihariv/roadrunner/service/http"
 	"net/rpc"
 	"os"
 	"os/signal"

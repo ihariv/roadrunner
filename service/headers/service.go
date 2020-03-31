@@ -1,7 +1,7 @@
 package headers
 
 import (
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	rrhttp "github.com/ihariv/roadrunner/service/http"
 	"net/http"
 	"strconv"
 )

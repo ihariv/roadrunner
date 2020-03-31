@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 )
 
 // Response handles PSR7 response logic.

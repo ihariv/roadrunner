@@ -1,7 +1,7 @@
 package limit
 
 import (
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 	"time"
 )
 

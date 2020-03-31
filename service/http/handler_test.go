@@ -3,7 +3,7 @@ package http
 import (
 	"bytes"
 	"context"
-	"github.com/spiral/roadrunner"
+	"github.com/ihariv/roadrunner"
 	"github.com/stretchr/testify/assert"
 	"io/ioutil"
 	"mime/multipart"

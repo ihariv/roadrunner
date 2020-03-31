@@ -3,8 +3,8 @@ package http
 import (
 	"errors"
 	"fmt"
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner"
+	"github.com/ihariv/roadrunner/service"
 	"net"
 	"os"
 	"strings"

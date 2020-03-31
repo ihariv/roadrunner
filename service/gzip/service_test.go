@@ -4,8 +4,8 @@ import (
 	json "github.com/json-iterator/go"
 	"github.com/sirupsen/logrus"
 	"github.com/sirupsen/logrus/hooks/test"
-	"github.com/spiral/roadrunner/service"
-	rrhttp "github.com/spiral/roadrunner/service/http"
+	"github.com/ihariv/roadrunner/service"
+	rrhttp "github.com/ihariv/roadrunner/service/http"
 	"github.com/stretchr/testify/assert"
 	"testing"
 )

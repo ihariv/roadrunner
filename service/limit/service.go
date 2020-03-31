@@ -1,8 +1,8 @@
 package limit
 
 import (
-	"github.com/spiral/roadrunner"
-	"github.com/spiral/roadrunner/service"
+	"github.com/ihariv/roadrunner"
+	"github.com/ihariv/roadrunner/service"
 )
 
 // ID defines controller service name.
