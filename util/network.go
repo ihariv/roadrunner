@@ -33,7 +33,7 @@ func CreateListener(address string) (net.Listener, error) {
 	cfg := tcplisten.Config{
 		ReusePort:   true,
 		DeferAccept: true,
-		FastOpen:    true,
+		FastOpen:    false,
 		Backlog:     0,
 	}
 
